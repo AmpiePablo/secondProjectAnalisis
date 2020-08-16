@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\Pablo Ampie\Desktop\Semestre_I_2020\Analisis\secondProject\proyectot2\proyectot2\RoadLimit.h(68,62): warning C4244: 'argumento': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Pablo Ampie\Desktop\Semestre_I_2020\Analisis\secondProject\proyectot2\proyectot2\RoadLimit.h(68,60): warning C4244: 'argumento': conversión de 'double' a '_Tp'; posible pérdida de datos
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Pablo Ampie\Desktop\Semestre_I_2020\Analisis\secondProject\proyectot2\proyectot2\RoadLimit.h(68,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  proyectot2.vcxproj -> C:\Users\Pablo Ampie\Desktop\Semestre_I_2020\Analisis\secondProject\proyectot2\x64\Debug\proyectot2.exe
